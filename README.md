@@ -1,11 +1,3 @@
-<!-- 
-  BANNER IMAGE GỢI Ý (tạo bằng Grok Imagine hoặc Midjourney):
-  Prompt chính xác để generate banner premium:
-  "Futuristic minimal dark banner for AI Engineer GitHub profile, pure black background with subtle glowing cyan and electric blue neural network nodes and flowing circuit connections forming abstract brain-like patterns, very clean geometric lines, high-tech cyber aesthetic, extremely minimal and professional, no text, no clutter, high contrast, cinematic lighting, 1920x420 resolution, perfect for GitHub hero section --ar 16:4 --stylize 250 --v 6"
-  
-  Sau khi generate, upload file vào thư mục assets/ trong repo dahuyn1625/dahuyn1625 và đặt tên là banner-ai-research.png
--->
-
 <div align="center">
   <img src="https://github.com/dahuyn1625/dahuyn1625/blob/main/assets/banner-ai-research.png?raw=true" 
        alt="Nguyễn Gia Huy – AI Research Engineering" 
