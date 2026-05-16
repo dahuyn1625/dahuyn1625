@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://github.com/dahuyn1625/dahuyn1625/blob/main/assets/banner.jpg?raw=true"
        alt="Nguyễn Gia Huy – AI Research Engineering"
@@ -111,4 +110,3 @@ Open to research discussions, collaboration on LLM/RAG systems, or engineering r
   <p>© 2026 • Nguyễn Gia Huy</p>
   <p>Engineering intelligence from neural networks to production systems</p>
 </div>
-```
