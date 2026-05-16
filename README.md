@@ -1,3 +1,11 @@
+<!-- 
+  BANNER IMAGE GỢI Ý (tạo bằng Grok Imagine hoặc Midjourney):
+  Prompt chính xác để generate banner premium:
+  "Futuristic minimal dark banner for AI Engineer GitHub profile, pure black background with subtle glowing cyan and electric blue neural network nodes and flowing circuit connections forming abstract brain-like patterns, very clean geometric lines, high-tech cyber aesthetic, extremely minimal and professional, no text, no clutter, high contrast, cinematic lighting, 1920x420 resolution, perfect for GitHub hero section --ar 16:4 --stylize 250 --v 6"
+  
+  Sau khi generate, upload file vào thư mục assets/ trong repo dahuyn1625/dahuyn1625 và đặt tên là banner-ai-research.png
+-->
+
 <div align="center">
   <img src="https://github.com/dahuyn1625/dahuyn1625/blob/main/assets/banner-ai-research.png?raw=true" 
        alt="Nguyễn Gia Huy – AI Research Engineering" 
@@ -39,30 +47,7 @@ My work centers on Large Language Models, Retrieval-Augmented Generation, deep l
 
 ## Featured Research Project
 
-### Hybrid BM25 + Vector Search: RAG vs LLM-only
-
-**Research Objective**  
-Benchmark the effectiveness of hybrid retrieval-augmented generation against vanilla LLM-only pipelines in a narrow, domain-specific question-answering task (nutrition-focused health queries). The goal is to quantify hallucination reduction, answer quality, and retrieval robustness when combining lexical (BM25) and semantic (vector) signals.
-
-**System Architecture**  
-- Modular pipeline architecture with isolated phases: data preparation, indexing, hybrid retrieval, generation, and automated evaluation.  
-- Hybrid retrieval engine built on PostgreSQL using `pg_textsearch` (BM25) + `pgvector` (dense embeddings) with reciprocal rank fusion for ranking.  
-- Dual inference paths: `hybrid_rag` (context-grounded) vs `llm_only` (direct generation).  
-- Local-first deployment via Docker Compose for full reproducibility.  
-- Side-by-side interactive demo with FastAPI backend and Next.js frontend displaying retrieval logs, citations, and timing metrics.
-
-**Engineering Decisions**  
-- Chose PostgreSQL as single source of truth for both lexical and vector indexing to minimize infrastructure complexity.  
-- Implemented reciprocal rank fusion to balance BM25 and embedding scores without introducing external vector stores.  
-- Automated evaluation harness covering retrieval metrics, answer quality scoring, and pairwise comparison between modes.  
-- Prioritized clean separation of concerns and script-driven execution for research reproducibility.
-
-**Scalability Direction**  
-Designed as a foundation for larger-scale RAG systems: containerized, modular, and ready for distributed indexing or production serving layers.
-
-**Future Work**  
-Extend to multi-agent retrieval, long-context optimization, domain adaptation, and integration with open-source LLM serving frameworks.
-
+**Hybrid BM25 + Vector Search: RAG vs LLM-only**  
 [→ View Repository](https://github.com/dahuyn1625/hybrid-bm25-vector-search-rag-vs-llm-only)
 
 ---
