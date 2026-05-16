@@ -4,73 +4,72 @@
        width="100%"
        style="border-radius: 12px; margin-bottom: 32px; box-shadow: 0 8px 32px rgba(0, 247, 255, 0.12);">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Deep+Learning+%26+Quantitative+Research;Architecting+Scalable+LLM+%26+RAG+Systems;From+Neural+Networks+to+Real-World+Systems"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=820&lines=Data+Scientist+%7C+AI+Engineer;Architecting+Scalable+LLM+%26+RAG+Systems;Bridging+Research+and+Production"
        alt="Animated professional tagline" />
 
-  <h3>AI Engineer • Deep Learning Researcher • Quantitative AI Systems</h3>
+  <h3>Data Scientist • AI Engineer • Deep Learning Enthusiast</h3>
 </div>
 
 ---
 
-**Nguyễn Gia Huy**  
-AI Engineer focused on building production-oriented intelligent systems that bridge cutting-edge research and scalable infrastructure.
+## 👨‍💻 About Me
 
-My work centers on Large Language Models, Retrieval-Augmented Generation, deep learning optimization, and quantitative evaluation of AI architectures. I design systems that are reproducible, measurable, and engineered for real-world deployment rather than isolated experiments.
+**Nguyễn Gia Huy** | Senior Data Science Student @ UEH
+
+I am focused on building production-oriented intelligent systems that bridge cutting-edge research and scalable infrastructure. My work centers on Large Language Models, Retrieval-Augmented Generation (RAG), and quantitative evaluation of AI architectures. I design systems that are reproducible, measurable, and engineered for real-world deployment.
+
+- 🎓 Information Technology major specializing in Data Science.
+- 💡 Strong foundation in Deep Learning, Information Retrieval, and IoT systems.
+- 🚀 Open to Data Scientist, AI Engineer, and Data Engineer opportunities.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**  
+**Data Science & AI**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI & Deep Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Backend & Infrastructure**  
+**Backend & Data Engineering**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## Featured Research Project
+## 🔬 Featured Research Project
 
 **Hybrid BM25 + Vector Search: RAG vs LLM-only**  
+A comparative research implementation evaluating Retrieval-Augmented Generation architectures against standalone LLMs, benchmarked using the NFCorpus medical dataset.  
 [→ View Repository](https://github.com/dahuyn1625/hybrid-bm25-vector-search-rag-vs-llm-only)
 
 ---
 
-## Research Philosophy
+## 🧩 Research Philosophy
 
-I approach AI engineering as the disciplined intersection of theoretical rigor and systems thinking. Every model, pipeline, or evaluation is built with three non-negotiable principles:
+I approach Data Science and AI engineering as a disciplined intersection of theoretical rigor and systems thinking. Every model and pipeline is built with three non-negotiable principles:
 
-- **Reproducibility** through deterministic pipelines and versioned artifacts  
-- **Measurability** via quantitative benchmarks and ablation studies  
-- **Scalability** by default — infrastructure decisions are made early, not as an afterthought
-
-Current research interests include advanced RAG architectures, efficient LLM inference, quantitative evaluation of generative systems, and production-grade MLOps for research-to-deployment workflows.
+- **Reproducibility** through deterministic pipelines and versioned artifacts.
+- **Measurability** via quantitative benchmarks and ablation studies.
+- **Scalability** by default — infrastructure decisions are made early, not as an afterthought.
 
 ---
 
-## GitHub Analytics
+## 📊 Analytics & Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dahuyn1625&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahuyn1625&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)
+<img src="https://github-readme-stats.vercel.app/api?username=dahuyn1625&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahuyn1625&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" width="48%">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dahuyn1625&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/?username=dahuyn1625&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -81,28 +80,19 @@ Current research interests include advanced RAG architectures, efficient LLM inf
 
 ---
 
-## Current Exploration
+## 🎯 Current Exploration
 
-**Active Focus**  
-- Hybrid retrieval systems and quantitative RAG evaluation  
-- Production-ready LLM serving and inference optimization  
-
-**Next Horizon**  
-- Multi-agent architectures and autonomous evaluation frameworks  
-- Scalable AI infrastructure and MLOps at research scale  
-
-**Long-Term Direction**  
-Contribute to open-source AI tooling, publish technical research, and engineer systems that move from laboratory prototypes to reliable real-world intelligence.
+- **Active Focus**: Hybrid retrieval systems, quantitative RAG evaluation, and clean code principles.
+- **Next Horizon**: Multi-agent architectures, autonomous evaluation frameworks, and scalable AI infrastructure (MLOps).
+- **Long-Term Direction**: Contribute to open-source AI tooling and engineer systems that transition smoothly from laboratory prototypes to reliable real-world intelligence.
 
 ---
 
-## Connect
+## 📬 Connect
 
 - **LinkedIn**: [linkedin.com/in/giahuy1625](https://www.linkedin.com/in/giahuy1625)  
 - **Email**: [nguyengiahuy1625@gmail.com](mailto:nguyengiahuy1625@gmail.com)  
 - **GitHub**: [github.com/dahuyn1625](https://github.com/dahuyn1625)
-
-Open to research discussions, collaboration on LLM/RAG systems, or engineering roles in AI infrastructure.
 
 ---
 
