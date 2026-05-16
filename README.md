@@ -4,7 +4,7 @@
        width="100%"
        style="border-radius: 12px; margin-bottom: 32px; box-shadow: 0 8px 32px rgba(0, 247, 255, 0.12);">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+Deep+Learning+%26+Quantitative+Research;Architecting+Scalable+LLM+%26+RAG+Systems;From+Neural+Networks+to+Real-World+Systems"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3200&pause=1200&color=00FF9F&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+Deep+Learning+%26+Quantitative+Research;Architecting+Scalable+LLM+%26+RAG+Systems;From+Neural+Networks+to+Real-World+Systems"
        alt="Animated professional tagline" />
 
   <h3>AI Engineer • Deep Learning Researcher • Quantitative AI Systems</h3>
@@ -13,7 +13,7 @@
 ---
 
 **Nguyễn Gia Huy**  
-AI Engineer focused on the disciplined intersection of deep learning research and scalable production infrastructure.  
+AI Engineer focused on the disciplined intersection of deep learning research and scalable production infrastructure.
 
 My work emphasizes deterministic execution, rigorous quantitative evaluation, and systems architecture for Large Language Models and Retrieval-Augmented Generation — building intelligent systems that are reproducible, measurable, and engineered for real-world deployment.
 
@@ -22,18 +22,18 @@ My work emphasizes deterministic execution, rigorous quantitative evaluation, an
 ## Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **AI & Deep Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Backend & Infrastructure**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Databases**  
@@ -64,16 +64,8 @@ Current research interests: advanced RAG architectures, efficient LLM inference,
 
 ## GitHub Analytics
 
-<div align="center">
-
-
-</div>
-
 <div align="center" style="margin-top: 20px;">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dahuyn1625&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak">
-
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahuyn1625&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak">
 </div>
 
 ---
@@ -97,8 +89,8 @@ Contribute to open-source AI tooling, publish technical research, and engineer s
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giahuy1625)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyengiahuy1625@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giahuy1625)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyengiahuy1625@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dahuyn1625)
 
 </div>
