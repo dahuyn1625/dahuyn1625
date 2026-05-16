@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/dahuyn1625/dahuyn1625/blob/main/assets/banner.jpg?raw=true" 
-       alt="Nguyễn Gia Huy – AI Research Engineering" 
-       width="100%" 
+  <img src="https://github.com/dahuyn1625/dahuyn1625/blob/main/assets/banner.jpg?raw=true"
+       alt="Nguyễn Gia Huy – AI Research Engineering"
+       width="100%"
        style="border-radius: 12px; margin-bottom: 32px; box-shadow: 0 8px 32px rgba(0, 247, 255, 0.12);">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Deep+Learning+%26+Quantitative+Research;Architecting+Scalable+LLM+%26+RAG+Systems;From+Neural+Networks+to+Real-World+Systems" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Deep+Learning+%26+Quantitative+Research;Architecting+Scalable+LLM+%26+RAG+Systems;From+Neural+Networks+to+Real-World+Systems"
        alt="Animated professional tagline" />
 
   <h3>AI Engineer • Deep Learning Researcher • Quantitative AI Systems</h3>
@@ -13,7 +13,7 @@
 ---
 
 **Nguyễn Gia Huy**  
-AI Engineer focused on building production-oriented intelligent systems that bridge research and scalable infrastructure.
+AI Engineer focused on building production-oriented intelligent systems that bridge cutting-edge research and scalable infrastructure.
 
 My work centers on Large Language Models, Retrieval-Augmented Generation, deep learning optimization, and quantitative evaluation of AI architectures. I design systems that are reproducible, measurable, and engineered for real-world deployment rather than isolated experiments.
 
@@ -23,16 +23,20 @@ My work centers on Large Language Models, Retrieval-Augmented Generation, deep l
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **AI & Deep Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Backend & Infrastructure**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Core Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -64,6 +68,15 @@ Current research interests include advanced RAG architectures, efficient LLM inf
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahuyn1625&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dahuyn1625&theme=tokyonight&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/?username=dahuyn1625&theme=tokyonight&hide_border=true)
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dahuyn1625/dahuyn1625/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </div>
 
 ---
