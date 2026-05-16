@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/dahuyn1625/dahuyn1625/blob/main/assets/banner2.jpg?raw=true"
        alt="Nguyễn Gia Huy – AI Research Engineering"
-       width="80%"
+       width="100%"
        style="border-radius: 12px; margin-bottom: 32px; box-shadow: 0 8px 32px rgba(0, 247, 255, 0.12);">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+Deep+Learning+%26+Quantitative+Research;Architecting+Scalable+LLM+%26+RAG+Systems;From+Neural+Networks+to+Real-World+Systems"
