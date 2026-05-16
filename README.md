@@ -66,22 +66,23 @@ Current research interests: advanced RAG architectures, efficient LLM inference,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dahuyn1625&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=dahuyn1625&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+     width="49%" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahuyn1625&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" width="49%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahuyn1625&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" 
+     width="49%" alt="Top Languages">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dahuyn1625&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dahuyn1625&theme=tokyonight&hide_border=true" 
+     width="49%" alt="GitHub Streak">
 
-<img src="https://github-readme-activity-graph.vercel.app/?username=dahuyn1625&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Activity Graph">
-
+<img src="https://github-readme-activity-graph.vercel.app/?username=dahuyn1625&theme=tokyonight&hide_border=true" 
+     width="49%" alt="GitHub Activity Graph">
 </div>
 
 <!-- GitHub Contribution Snake – kích thước đã thu nhỏ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dahuyn1625/dahuyn1625/output/github-contribution-grid-snake.svg" 
-       alt="GitHub Snake Animation" 
-       width="82%" />
-</div>
+<img src="https://raw.githubusercontent.com/dahuyn1625/dahuyn1625/output/github-contribution-grid-snake.svg" 
+     alt="GitHub Snake Animation" 
+     width="85%" />
 
 ---
 
