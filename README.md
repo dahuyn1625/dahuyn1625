@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/dahuyn1625/dahuyn1625/blob/main/assets/banner2.jpg?raw=true"
+  <img src="https://github.com/dahuyn1625/dahuyn1625/blob/main/assets/banner.jpg?raw=true"
        alt="Nguyễn Gia Huy – AI Research Engineering"
-       width="70%"
+       width="100%"
        style="border-radius: 12px; margin-bottom: 32px; box-shadow: 0 8px 32px rgba(0, 247, 255, 0.12);">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=720&lines=AI+Engineer+%7C+Deep+Learning+%26+Quantitative+Research;Architecting+Scalable+LLM+%26+RAG+Systems;From+Neural+Networks+to+Real-World+Systems"
@@ -66,23 +66,15 @@ Current research interests: advanced RAG architectures, efficient LLM inference,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dahuyn1625&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-     width="49%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=dahuyn1625&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahuyn1625&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" 
-     width="49%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahuyn1625&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" width="49%" alt="Top Languages">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dahuyn1625&theme=tokyonight&hide_border=true" 
-     width="49%" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dahuyn1625&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak">
 
-<img src="https://github-readme-activity-graph.vercel.app/?username=dahuyn1625&theme=tokyonight&hide_border=true" 
-     width="49%" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/?username=dahuyn1625&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Activity Graph">
+
 </div>
-
-<!-- GitHub Contribution Snake – kích thước đã thu nhỏ -->
-<img src="https://raw.githubusercontent.com/dahuyn1625/dahuyn1625/output/github-contribution-grid-snake.svg" 
-     alt="GitHub Snake Animation" 
-     width="85%" />
 
 ---
 
