@@ -1,112 +1,64 @@
 <div align="center">
   <img src="https://github.com/dahuyn1625/dahuyn1625/blob/main/assets/banner.jpg?raw=true"
-       alt="Nguyễn Gia Huy – AI Research Engineering"
+       alt="Nguyễn Gia Huy"
        width="100%"
-       style="border-radius: 12px; margin-bottom: 32px; box-shadow: 0 8px 32px rgba(0, 247, 255, 0.12);">
+       style="border-radius: 4px; margin-bottom: 24px;">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=3200&pause=1200&color=00F7FF&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Deep+Learning+%26+Quantitative+Research;Architecting+Scalable+LLM+%26+RAG+Systems;From+Neural+Networks+to+Real-World+Systems"
-       alt="Animated professional tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=800&lines=Research-Oriented+AI+Systems;LLM+Evaluation+%26+Retrieval+Systems;Deep+Learning+Infrastructure;Quantitative+AI+Research"
+       alt="Research Focus" />
 
-  <h3>AI Engineer • Deep Learning Researcher • Quantitative AI Systems</h3>
+  <h3 style="font-weight: 400; color: #8B949E; margin-top: 8px;">AI Engineer • Deep Learning Researcher • Quantitative AI Systems</h3>
 </div>
 
 ---
 
-**Nguyễn Gia Huy**  
-AI Engineer focused on building production-oriented intelligent systems that bridge cutting-edge research and scalable infrastructure.
+**Nguyễn Gia Huy** | Information Technology @ HUFLIT
 
-My work centers on Large Language Models, Retrieval-Augmented Generation, deep learning optimization, and quantitative evaluation of AI architectures. I design systems that are reproducible, measurable, and engineered for real-world deployment rather than isolated experiments.
-
----
-
-## Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI & Deep Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Backend & Infrastructure**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+AI Engineer focused on the intersection of deep learning research and scalable infrastructure. My work emphasizes deterministic execution, rigorous evaluation, and systems architecture for Large Language Models and Retrieval-Augmented Generation. I prioritize building measurable, reliable systems with a quantitative approach to AI engineering.
 
 ---
 
-## Featured Research Project
+### Stack & Infrastructure
 
-**Hybrid BM25 + Vector Search: RAG vs LLM-only**  
-[→ View Repository](https://github.com/dahuyn1625/hybrid-bm25-vector-search-rag-vs-llm-only)
+**Deep Learning & Systems**  
+![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-121212?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-121212?style=flat-square&logo=tensorflow&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-121212?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-121212?style=flat-square)
 
----
-
-## Research Philosophy
-
-I approach AI engineering as the disciplined intersection of theoretical rigor and systems thinking. Every model, pipeline, or evaluation is built with three non-negotiable principles:
-
-- **Reproducibility** through deterministic pipelines and versioned artifacts  
-- **Measurability** via quantitative benchmarks and ablation studies  
-- **Scalability** by default — infrastructure decisions are made early, not as an afterthought
-
-Current research interests include advanced RAG architectures, efficient LLM inference, quantitative evaluation of generative systems, and production-grade MLOps for research-to-deployment workflows.
+**Engineering & MLOps**  
+![FastAPI](https://img.shields.io/badge/FastAPI-121212?style=flat-square&logo=fastapi&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-121212?style=flat-square)
+![Quantitative AI Research](https://img.shields.io/badge/Quantitative_AI_Research-121212?style=flat-square)
 
 ---
 
-## GitHub Analytics
+### Featured Research
+
+**Hybrid BM25 + Vector Search: Quantitative RAG Evaluation**  
+An empirical framework evaluating hybrid retrieval architectures against baseline generative models. This research focuses on quantifying retrieval precision, latency trade-offs, and context relevance using the NFCorpus dataset. Built with modular evaluation pipelines to test architectural ablation and systemic scalability.  
+[View Repository](https://github.com/dahuyn1625/hybrid-bm25-vector-search-rag-vs-llm-only)
+
+---
+
+### Engineering Focus
+
+- **Retrieval System Design**: Architecting context-retrieval mechanisms combining sparse and dense vector representations.
+- **Quantitative Evaluation**: Benchmarking generative systems via deterministic ablation studies and robust metric tracking.
+- **Scalable Architecture**: Designing reproducible pipelines optimized for inference efficiency and system reliability.
+
+---
+
+### Analytics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dahuyn1625&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahuyn1625&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dahuyn1625&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/?username=dahuyn1625&theme=tokyonight&hide_border=true)
-
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dahuyn1625/dahuyn1625/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dahuyn1625&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahuyn1625&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" width="48%">
 </div>
 
 ---
 
-## Current Exploration
+### Connect
 
-**Active Focus**  
-- Hybrid retrieval systems and quantitative RAG evaluation  
-- Production-ready LLM serving and inference optimization  
-
-**Next Horizon**  
-- Multi-agent architectures and autonomous evaluation frameworks  
-- Scalable AI infrastructure and MLOps at research scale  
-
-**Long-Term Direction**  
-Contribute to open-source AI tooling, publish technical research, and engineer systems that move from laboratory prototypes to reliable real-world intelligence.
-
----
-
-## Connect
-
-- **LinkedIn**: [linkedin.com/in/giahuy1625](https://www.linkedin.com/in/giahuy1625)  
-- **Email**: [nguyengiahuy1625@gmail.com](mailto:nguyengiahuy1625@gmail.com)  
-- **GitHub**: [github.com/dahuyn1625](https://github.com/dahuyn1625)
-
-Open to research discussions, collaboration on LLM/RAG systems, or engineering roles in AI infrastructure.
-
----
-
-<div align="center" style="margin-top: 64px; opacity: 0.6; font-size: 0.85em;">
-  <p>© 2026 • Nguyễn Gia Huy</p>
-  <p>Engineering intelligence from neural networks to production systems</p>
-</div>
+[LinkedIn](https://www.linkedin.com/in/giahuy1625) • [GitHub](https://github.com/dahuyn1625) • [Email](mailto:nguyengiahuy1625@gmail.com)
