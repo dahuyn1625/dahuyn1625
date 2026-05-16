@@ -73,7 +73,6 @@ Current research interests: advanced RAG architectures, efficient LLM inference,
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahuyn1625&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak">
 
-<img src="https://github-readme-activity-graph.vercel.app/?username=dahuyn1625&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Activity Graph">
 
 </div>
 
