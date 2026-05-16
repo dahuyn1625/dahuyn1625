@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/dahuyn1625/dahuyn1625/blob/main/assets/banner.jpg?raw=true"
+  <img src="https://github.com/dahuyn1625/dahuyn1625/blob/main/assets/banner2.jpg?raw=true"
        alt="Nguyễn Gia Huy – AI Research Engineering"
        width="70%"
        style="border-radius: 12px; margin-bottom: 32px; box-shadow: 0 8px 32px rgba(0, 247, 255, 0.12);">
